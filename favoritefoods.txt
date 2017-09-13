@@ -1,0 +1,5 @@
+fries
+cookie
+ham
+bagel
+rice
