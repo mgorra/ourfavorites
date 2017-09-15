@@ -1,11 +1,12 @@
+lettuce
+burger
+cheese
 tomato
 fries
 cookie
 ham
 bagel
 rice
-<<<<<<< c55d6aa15c84455e93a23833d11667fd2622d78b:favorite-foods.txt
 spaghetti 
-=======
 apple
->>>>>>> added apple to favoritefoods.txt:favoritefoods.txt
+
